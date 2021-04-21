@@ -1,5 +1,5 @@
 import { Vector } from 'p5';
-import { BOARD_OFFSET_X, BOARD_OFFSET_Y } from './app';
+import { BOARD_OFFSET_X, BOARD_OFFSET_Y } from './constant';
 import Stone from './stone';
 
 export const capitalizeFirstLetter = (string: string) => {
