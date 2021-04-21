@@ -38,4 +38,13 @@
 <line x1="444" y1="396.5" x2="12" y2="396.5" stroke="black"/>
 <line x1="444" y1="420.5" x2="12" y2="420.5" stroke="black"/>
 <line x1="444" y1="444.5" x2="12" y2="444.5" stroke="black"/>
+<circle cx="84.5" cy="372.5" r="3" fill="black"/>
+<circle cx="228.5" cy="372.5" r="3" fill="black"/>
+<circle cx="372.5" cy="372.5" r="3" fill="black"/>
+<circle cx="372.5" cy="84.5" r="3" fill="black"/>
+<circle cx="372.5" cy="228.5" r="3" fill="black"/>
+<circle cx="228.5" cy="228.5" r="3" fill="black"/>
+<circle cx="228.5" cy="84.5" r="3" fill="black"/>
+<circle cx="84.5" cy="84.5" r="3" fill="black"/>
+<circle cx="84.5" cy="228.5" r="3" fill="black"/>
 </svg>
